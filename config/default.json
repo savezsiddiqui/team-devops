@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb+srv://savez:savez123@cluster0-7rcoq.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "jiitSucks",
+    "githubToken": "624cd1c4b6d574d8c3cd862f1b52180501952f29"
+}
